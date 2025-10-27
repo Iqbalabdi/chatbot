@@ -1,0 +1,23 @@
+# --- Core ---
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+pydantic-settings
+PyJWT
+
+# --- Infra / Features ---
+redis
+slowapi
+python-jose
+passlib[bcrypt]
+
+# --- Testing ---
+pytest
+pytest-cov
+pytest-asyncio
+
+# --- Dev tools (optional) ---
+black
+isort
+flake8
