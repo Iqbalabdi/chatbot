@@ -154,5 +154,8 @@ CI Steps:
 4. Build Docker Images: For both Auth & Chat services
 
 ### 7. Architecture
-<img width="370" height="570" alt="image" src="https://github.com/user-attachments/assets/fbbec891-3a21-4113-a0d0-86bfbb4731a0" />
+<img width="470" height="620" alt="image" src="https://github.com/user-attachments/assets/4922a8c3-e329-4180-9343-10ece2f5e591" />
+
+
+
 
