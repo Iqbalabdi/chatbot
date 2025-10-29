@@ -82,7 +82,7 @@ Located under `/tests/common/`.
 This will start both Redis and the chat service:
 
   ```bash
-  docker-compose up --build
+  ENVIRONMENT=stg docker-compose up --build
   ```
 
 ### 🧠 Running Locally (Without Docker)
@@ -155,6 +155,7 @@ CI Steps:
 
 ### 7. Architecture
 <img width="470" height="620" alt="image" src="https://github.com/user-attachments/assets/4922a8c3-e329-4180-9343-10ece2f5e591" />
+
 
 
 
